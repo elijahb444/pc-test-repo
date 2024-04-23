@@ -1,0 +1,2 @@
+this is a test. I installed gitbash on my pc and im making sure information and code i build in vsc will be transferred to my github repository.
+
